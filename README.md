@@ -1,2 +1,5 @@
-# CH37_Productos
-Productos Ejercicio con fetch de la API de fakestoreapi.com
+# Productos
+## Ejercicio con fetch de la API fakestoreapi.com
+Se consulta la API fakestoreapi.com y se crean los productos en cards
+
+
